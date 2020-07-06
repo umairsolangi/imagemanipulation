@@ -1,0 +1,13 @@
+.hidden{
+    display: none;
+}
+img{
+    width: 300px;
+    border-radius: 50px;
+}
+h1,h2{
+    font-weight: bold;
+    font-family: sans-serif;
+    color: teal;
+text-align: center;
+}
